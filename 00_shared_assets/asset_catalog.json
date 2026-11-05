@@ -1,0 +1,1444 @@
+{
+  "generated_by": "bitcoin-x-v16-asset-catalog-v1",
+  "asset_library_folder": "00_shared_assets",
+  "notes": [
+    "Filename normalization does NOT authenticate a trademark, image, or logo.",
+    "Use v16_products_allowlisting_this_name for approved V16 filenames; Git commit verification is still required.",
+    "Hardware reference photos and videos must stay unchanged.",
+    "Image variants retain original content even when a canonical alias is created."
+  ],
+  "assets": [
+    {
+      "file": "blockstream_amp_emblem_on_dark_rgb.png",
+      "type": "brand_emblem",
+      "product": "blockstream_amp",
+      "variant": "dark_background,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "amp_emblem_on_dark_rgb.png",
+      "sha256": "5d6c5376c1ff00b902420af96f03f29e0b292a8e2e85320a1faed88995612b7e",
+      "size_bytes": 20293
+    },
+    {
+      "file": "blockstream_amp_emblem_on_transparent_rgb.svg",
+      "type": "brand_emblem",
+      "product": "blockstream_amp",
+      "variant": "transparent,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "amp_emblem_on_transparent_rgb.svg",
+      "sha256": "99b6cd0f899c1cf6e44877135e62210aaa73de34ef735334113a8374b69c439f",
+      "size_bytes": 892
+    },
+    {
+      "file": "blockstream_amp_logo.png",
+      "type": "brand_logo",
+      "product": "blockstream_amp",
+      "variant": "v16_allowlisted_filename",
+      "v16_products_allowlisting_this_name": [
+        "amp"
+      ],
+      "source_name_in_audited_zip": "amp_logo_white_on_transparent_rgb.png",
+      "sha256": "3f37bceefc1f6f3945db6a174fba6b10fb74fba3f01f76ad78efed9b842595cb",
+      "size_bytes": 84434
+    },
+    {
+      "file": "blockstream_amp_logo.svg",
+      "type": "brand_logo",
+      "product": "blockstream_amp",
+      "variant": "v16_allowlisted_filename",
+      "v16_products_allowlisting_this_name": [
+        "amp"
+      ],
+      "source_name_in_audited_zip": null,
+      "sha256": "a77d38cf489d79dea09fe224a2ba22d3231625e4759342aaf75bef0fe9661dde",
+      "size_bytes": 11650
+    },
+    {
+      "file": "blockstream_amp_logo_white_on_dark_rgb.png",
+      "type": "brand_logo",
+      "product": "blockstream_amp",
+      "variant": "dark_background,white_variant,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "amp_logo_white_on_dark_rgb.png",
+      "sha256": "b0ccb24b86280474686427614b5e5485dd6148c0c7424d3951c341dc0223308c",
+      "size_bytes": 82743
+    },
+    {
+      "file": "blockstream_amp_logo_white_on_transparent_rgb.png",
+      "type": "brand_logo",
+      "product": "blockstream_amp",
+      "variant": "transparent,white_variant,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "amp_logo_white_on_transparent_rgb.png",
+      "sha256": "3f37bceefc1f6f3945db6a174fba6b10fb74fba3f01f76ad78efed9b842595cb",
+      "size_bytes": 84434
+    },
+    {
+      "file": "blockstream_app_logo.png",
+      "type": "brand_logo",
+      "product": "blockstream_app",
+      "variant": "v16_allowlisted_filename",
+      "v16_products_allowlisting_this_name": [
+        "blockstream_app"
+      ],
+      "source_name_in_audited_zip": null,
+      "sha256": "f9cbb61c1571f8021596fc14434f831419b47197bbb07520595d267eda37c47e",
+      "size_bytes": 6894
+    },
+    {
+      "file": "blockstream_app_mobile_phone_with_jade_trans.svg",
+      "type": "other_visual_reference",
+      "product": "blockstream_app",
+      "variant": "unspecified_variant",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "9ab30fc661c3bcc1bcf22023d504bd29a0e0948d2406cc4044687cfa8576c43d",
+      "size_bytes": 940740
+    },
+    {
+      "file": "blockstream_banner.png",
+      "type": "banner",
+      "product": "blockstream",
+      "variant": "unspecified_variant",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "2c2e100732d6913cab600c9cc65e0c7c57e48324913ec7ecf4920923415f4de4",
+      "size_bytes": 81025
+    },
+    {
+      "file": "blockstream_cryptofeed_logo.png",
+      "type": "brand_logo",
+      "product": "cryptofeed",
+      "variant": "v16_allowlisted_filename",
+      "v16_products_allowlisting_this_name": [
+        "cryptofeed"
+      ],
+      "source_name_in_audited_zip": "crypto_data_feed_logo_white_on_transparent_rgb.png",
+      "sha256": "e5e2dd93267e5d80207eee834fd707a88003243521e14a19b3cf635967aaa06b",
+      "size_bytes": 39893
+    },
+    {
+      "file": "blockstream_cryptofeed_logo.svg",
+      "type": "brand_logo",
+      "product": "cryptofeed",
+      "variant": "v16_allowlisted_filename",
+      "v16_products_allowlisting_this_name": [
+        "cryptofeed"
+      ],
+      "source_name_in_audited_zip": null,
+      "sha256": "4e58b7f0f6c6541a5a3b11ee820f0d340def9849ed0ab9364a647cdd6e5d1e9e",
+      "size_bytes": 18101
+    },
+    {
+      "file": "blockstream_cryptofeed_logo_white_on_transparent_rgb.png",
+      "type": "brand_logo",
+      "product": "cryptofeed",
+      "variant": "transparent,white_variant,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "crypto_data_feed_logo_white_on_transparent_rgb.png",
+      "sha256": "e5e2dd93267e5d80207eee834fd707a88003243521e14a19b3cf635967aaa06b",
+      "size_bytes": 39893
+    },
+    {
+      "file": "blockstream_emblem_on_dark_rgb.png",
+      "type": "brand_emblem",
+      "product": "blockstream",
+      "variant": "dark_background,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "blks_emblem_on_dark_rgb.png",
+      "sha256": "cdc1dcf4f5bfc8efe27e06e162c867ae931c19c52cc7d9820547a3edcefc2ea1",
+      "size_bytes": 30389
+    },
+    {
+      "file": "blockstream_emblem_on_transparent_rgb.png",
+      "type": "brand_emblem",
+      "product": "blockstream",
+      "variant": "transparent,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "blks_emblem_on_transparent_rgb.png",
+      "sha256": "68ab6eab1c51c983b12d6833c74206652ad62852f39b77cf932e77cb2ff20113",
+      "size_bytes": 32871
+    },
+    {
+      "file": "blockstream_emblem_on_transparent_rgb.svg",
+      "type": "brand_emblem",
+      "product": "blockstream",
+      "variant": "transparent,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "blks_emblem_on_transparent_rgb.svg",
+      "sha256": "7a787b13fffbafad91ae8ce8e71a82ab88787e72b4aa37e7127e70237114d986",
+      "size_bytes": 5516
+    },
+    {
+      "file": "blockstream_explorer_logo.png",
+      "type": "brand_logo",
+      "product": "blockstream_explorer",
+      "variant": "v16_allowlisted_filename",
+      "v16_products_allowlisting_this_name": [
+        "explorer"
+      ],
+      "source_name_in_audited_zip": null,
+      "sha256": "728bd977b40d48afa7a925629342d0a776c28795215e4e74897905c6fabf75c7",
+      "size_bytes": 7030
+    },
+    {
+      "file": "blockstream_finance_logo_white_on_dark_cmyk.png",
+      "type": "brand_logo",
+      "product": "blockstream_finance",
+      "variant": "dark_background,white_variant,cmyk",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "finance_logo_white_on_dark_cmyk.png",
+      "sha256": "4881305b51228cc9d864409c4ae8ac14e5344e7f331492c183ab72fb2cdb9729",
+      "size_bytes": 9006
+    },
+    {
+      "file": "blockstream_finance_logo_white_on_dark_rgb.png",
+      "type": "brand_logo",
+      "product": "blockstream_finance",
+      "variant": "dark_background,white_variant,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "finance_logo_white_on_dark_rgb.png",
+      "sha256": "3b2d29917f5f9f2778acbd82c91419e590b234ab1b02eb7dffb32dfff51ed75d",
+      "size_bytes": 9006
+    },
+    {
+      "file": "blockstream_finance_logo_white_on_transparent_cmyk.png",
+      "type": "brand_logo",
+      "product": "blockstream_finance",
+      "variant": "transparent,white_variant,cmyk",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "finance_logo_white_on_transparent_cmyk.png",
+      "sha256": "9b8b628a1b197d82a2e381bf78baf51dc5b67bda01bce458dd3419e1475fc18e",
+      "size_bytes": 9039
+    },
+    {
+      "file": "blockstream_finance_logo_white_on_transparent_cmyk.svg",
+      "type": "brand_logo",
+      "product": "blockstream_finance",
+      "variant": "transparent,white_variant,cmyk",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "finance_logo_white_on_transparent_cmyk.svg",
+      "sha256": "dc600957dff5411189245014d65938f7fec80e5ddf26d01b2f161c86df826aa9",
+      "size_bytes": 7093
+    },
+    {
+      "file": "blockstream_finance_logo_white_on_transparent_rgb.png",
+      "type": "brand_logo",
+      "product": "blockstream_finance",
+      "variant": "transparent,white_variant,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "finance_logo_white_on_transparent_rgb.png",
+      "sha256": "25aa7ae234da65bdc4cadd1bea50517e1ea780bfbf07f2c2bca7b88fa3e74693",
+      "size_bytes": 9042
+    },
+    {
+      "file": "blockstream_finance_logo_white_on_transparent_rgb.svg",
+      "type": "brand_logo",
+      "product": "blockstream_finance",
+      "variant": "transparent,white_variant,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "finance_logo_white_on_transparent_rgb.svg",
+      "sha256": "1f88d4084538dcbb800cf6f02fc1ab7b2c8c8a437829b0e24dd51830d3a16c98",
+      "size_bytes": 7093
+    },
+    {
+      "file": "blockstream_financial_emblem_on_dark_rgb.png",
+      "type": "brand_emblem",
+      "product": "blockstream_finance",
+      "variant": "dark_background,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "financial_emblem_on_dark_rgb.png",
+      "sha256": "be3fe763fea5388b9736773d5493ffed606d3a5e5cd11a6025d4e86fc776a188",
+      "size_bytes": 7045
+    },
+    {
+      "file": "blockstream_financial_emblem_on_transparent_rgb.png",
+      "type": "brand_emblem",
+      "product": "blockstream_finance",
+      "variant": "transparent,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "financial_emblem_on_transparent_rgb.png",
+      "sha256": "c52790a228496b66674c51545407e3fc1173947339ea51f9b25d723fbb8811a4",
+      "size_bytes": 6740
+    },
+    {
+      "file": "blockstream_financial_emblem_on_transparent_rgb.svg",
+      "type": "brand_emblem",
+      "product": "blockstream_finance",
+      "variant": "transparent,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "financial_emblem_on_transparent_rgb.svg",
+      "sha256": "9142eda35250366e60728bb6f731d45146044ba093369a9f2f223924e2a84313",
+      "size_bytes": 683
+    },
+    {
+      "file": "blockstream_greenlight_emblem_on_dark_rgb.png",
+      "type": "brand_emblem",
+      "product": "blockstream_greenlight",
+      "variant": "dark_background,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "greenlight_emblem_on_dark_rgb.png",
+      "sha256": "bbcab2b82b5848d22b75f324fa65181244d9464d8b69c272bd2cb842c4a854d4",
+      "size_bytes": 22357
+    },
+    {
+      "file": "blockstream_greenlight_emblem_on_transparent_rgb.png",
+      "type": "brand_emblem",
+      "product": "blockstream_greenlight",
+      "variant": "transparent,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "greenlight_emblem_on_transparent_rgb.png",
+      "sha256": "40d59c49bf005e580f53612bd4f1f67f869c8b249e8a1a8ef2585a4ddb6b2267",
+      "size_bytes": 22340
+    },
+    {
+      "file": "blockstream_greenlight_emblem_on_transparent_rgb.svg",
+      "type": "brand_emblem",
+      "product": "blockstream_greenlight",
+      "variant": "transparent,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "greenlight_emblem_on_transparent_rgb.svg",
+      "sha256": "f3cd81637d28f8952cd48414ec4733ce38407d868c9fcd45b52ec88cfb678e65",
+      "size_bytes": 864
+    },
+    {
+      "file": "blockstream_greenlight_logo_white_on_dark_cmyk.png",
+      "type": "brand_logo",
+      "product": "blockstream_greenlight",
+      "variant": "dark_background,white_variant,cmyk",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "greenlight_logo_white_on_dark_cmyk.png",
+      "sha256": "a3ae22af813f2b80bd26b52836691662e25520883076b32750fde3a13887d5ed",
+      "size_bytes": 175898
+    },
+    {
+      "file": "blockstream_greenlight_logo_white_on_dark_rgb.png",
+      "type": "brand_logo",
+      "product": "blockstream_greenlight",
+      "variant": "dark_background,white_variant,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "greenlight_logo_white_on_dark_rgb.png",
+      "sha256": "8dd86e51cf86263f60bf99c4a4954019f5ce0e6080a857116e5c5be1d3a06915",
+      "size_bytes": 34139
+    },
+    {
+      "file": "blockstream_greenlight_logo_white_on_transparent_cmyk.png",
+      "type": "brand_logo",
+      "product": "blockstream_greenlight",
+      "variant": "transparent,white_variant,cmyk",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "greenlight_logo_white_on_transparent_cmyk.png",
+      "sha256": "01a8fffaf1cac66b053358871ad496240d591dcb33d2e01e4b9e60e60995d055",
+      "size_bytes": 222097
+    },
+    {
+      "file": "blockstream_greenlight_logo_white_on_transparent_cmyk.svg",
+      "type": "brand_logo",
+      "product": "blockstream_greenlight",
+      "variant": "transparent,white_variant,cmyk",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "greenlight_logo_white_on_transparent_cmyk.svg",
+      "sha256": "118637396d7c5f23c903e264bca6fbc229fc607d38539e147be1031a17761502",
+      "size_bytes": 3611
+    },
+    {
+      "file": "blockstream_greenlight_logo_white_on_transparent_rgb.png",
+      "type": "brand_logo",
+      "product": "blockstream_greenlight",
+      "variant": "transparent,white_variant,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "greenlight_logo_white_on_transparent_rgb.png",
+      "sha256": "a580ce3b88d9de9eb1bc6d638117b084f4a54f30ce064802f78e593544c3dc85",
+      "size_bytes": 32484
+    },
+    {
+      "file": "blockstream_greenlight_logo_white_on_transparent_rgb.svg",
+      "type": "brand_logo",
+      "product": "blockstream_greenlight",
+      "variant": "transparent,white_variant,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "greenlight_logo_white_on_transparent_rgb.svg",
+      "sha256": "3d2a0640b2488681a063b9adf8acc6baca54061560483aca06b7152fd300a0b4",
+      "size_bytes": 3677
+    },
+    {
+      "file": "blockstream_logo.png",
+      "type": "brand_logo",
+      "product": "blockstream",
+      "variant": "v16_allowlisted_filename",
+      "v16_products_allowlisting_this_name": [
+        "blockstream"
+      ],
+      "source_name_in_audited_zip": "blks_logo_white_on_transparent_rgb.png",
+      "sha256": "38434c3a920f5c09e45d93ddf88ad843342906cb2fe4fdc23d2571f3547697ff",
+      "size_bytes": 41157
+    },
+    {
+      "file": "blockstream_logo_black_on_transparent_cmyk.png",
+      "type": "brand_logo",
+      "product": "blockstream",
+      "variant": "transparent,black_variant,cmyk",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "blks_logo_black_on_transparent_cmyk.png",
+      "sha256": "936f9dbe4700fe7be7fb427266027ec9249ba4f45f80275370aff32bd09fdeb4",
+      "size_bytes": 43563
+    },
+    {
+      "file": "blockstream_logo_black_on_transparent_cmyk.svg",
+      "type": "brand_logo",
+      "product": "blockstream",
+      "variant": "transparent,black_variant,cmyk",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "blks_logo_black_on_transparent_cmyk.svg",
+      "sha256": "9af1a9098a7b9a32b556de32fcb3a974dc9902b6a7146e9b83871df952b2aeb1",
+      "size_bytes": 8254
+    },
+    {
+      "file": "blockstream_logo_black_on_transparent_pantone_for_print.png",
+      "type": "brand_logo",
+      "product": "blockstream",
+      "variant": "transparent,black_variant,print_pantone",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "blks_logo_black_on_transparent_pantone_forPrint.png",
+      "sha256": "4dbab4554086954b3dcbcd6a461d0f2069b24564d7de5f6c6cd3b5dd116b7bdc",
+      "size_bytes": 19328
+    },
+    {
+      "file": "blockstream_logo_black_on_transparent_pantone_for_print.svg",
+      "type": "brand_logo",
+      "product": "blockstream",
+      "variant": "transparent,black_variant,print_pantone",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "blks_logo_black_on_transparent_pantone_forPrint.svg",
+      "sha256": "6275539e906b16a7d38a3fbe2856384b82e67773ca8205c3bcf2cb2a4ac48fb5",
+      "size_bytes": 10220
+    },
+    {
+      "file": "blockstream_logo_black_on_transparent_rgb.png",
+      "type": "brand_logo",
+      "product": "blockstream",
+      "variant": "transparent,black_variant,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "blks_logo_black_on_transparent_rgb.png",
+      "sha256": "386fd77522eaec28db312327a0af56714c4202b04214e728b4e0a321debbfec6",
+      "size_bytes": 35614
+    },
+    {
+      "file": "blockstream_logo_black_on_transparent_rgb.svg",
+      "type": "brand_logo",
+      "product": "blockstream",
+      "variant": "transparent,black_variant,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "blks_logo_black_on_transparent_rgb.svg",
+      "sha256": "3ca244587bc339a965914e6348e652c7a64e079c4f2dbc14558b75de4cfebe37",
+      "size_bytes": 8214
+    },
+    {
+      "file": "blockstream_logo_white_on_transparent_cmyk.png",
+      "type": "brand_logo",
+      "product": "blockstream",
+      "variant": "transparent,white_variant,cmyk",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "blks_logo_white_on_transparent_cmyk.png",
+      "sha256": "37f51ba924a0fb99bf6e89c892ef1841789e0fe57fe6c2bf549643321ed4a6be",
+      "size_bytes": 42308
+    },
+    {
+      "file": "blockstream_logo_white_on_transparent_cmyk.svg",
+      "type": "brand_logo",
+      "product": "blockstream",
+      "variant": "transparent,white_variant,cmyk",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "blks_logo_white_on_transparent_cmyk.svg",
+      "sha256": "d0b0c4c399a3653255d13755448b4a6e0cc2636c1d81815158369f797105927e",
+      "size_bytes": 8344
+    },
+    {
+      "file": "blockstream_logo_white_on_transparent_pantone_for_print.png",
+      "type": "brand_logo",
+      "product": "blockstream",
+      "variant": "transparent,white_variant,print_pantone",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "blks_logo_white_on_transperent_pantone_forPrint.png",
+      "sha256": "eaf53748295428a25066692de84c44120c8d5809ea29f9d8103fbfc066ae4f24",
+      "size_bytes": 19317
+    },
+    {
+      "file": "blockstream_logo_white_on_transparent_pantone_for_print.svg",
+      "type": "brand_logo",
+      "product": "blockstream",
+      "variant": "transparent,white_variant,print_pantone",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "blks_logo_white_on_transperent_pantone_forPrint.svg",
+      "sha256": "32b941c61a0d9b03acc86b73dd10c8dc45e8b300945b6e0e62ad6def9e3ad274",
+      "size_bytes": 9560
+    },
+    {
+      "file": "blockstream_logo_white_on_transparent_rgb.png",
+      "type": "brand_logo",
+      "product": "blockstream",
+      "variant": "transparent,white_variant,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "blks_logo_white_on_transparent_rgb.png",
+      "sha256": "38434c3a920f5c09e45d93ddf88ad843342906cb2fe4fdc23d2571f3547697ff",
+      "size_bytes": 41157
+    },
+    {
+      "file": "blockstream_logo_white_on_transparent_rgb.svg",
+      "type": "brand_logo",
+      "product": "blockstream",
+      "variant": "transparent,white_variant,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "blks_logo_white_on_transparent_rgb.svg",
+      "sha256": "5a6f1bff3720ce3d3d626ded1fbf4440f2579d3f6588e161c2354d34af3bc5b4",
+      "size_bytes": 8298
+    },
+    {
+      "file": "blockstream_research_emblem_on_dark_rgb_variant_01.png",
+      "type": "brand_emblem",
+      "product": "blockstream_research",
+      "variant": "dark_background,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "research_emblem_on_dark_rgb-01.png",
+      "sha256": "f3b97a79089b099f82f171a610da1869b4477da8664c7300534cfc99730ea534",
+      "size_bytes": 79404
+    },
+    {
+      "file": "blockstream_research_emblem_on_transparent_rgb.png",
+      "type": "brand_emblem",
+      "product": "blockstream_research",
+      "variant": "transparent,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "research_emblem_on_transparent_rgb.png",
+      "sha256": "b848e01fd4552b6fa478b00d476969986e6ab8aef4fdfd8d1235cc42b2a5f76e",
+      "size_bytes": 82595
+    },
+    {
+      "file": "blockstream_research_emblem_on_transparent_rgb.svg",
+      "type": "brand_emblem",
+      "product": "blockstream_research",
+      "variant": "transparent,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "research_emblem_on_transparent_rgb.svg",
+      "sha256": "2feebae5deac0c191ccb201541b8ba4fd45e6f670a4e81fc6bf2b3cb675570ed",
+      "size_bytes": 664
+    },
+    {
+      "file": "blockstream_research_laser_lines.png",
+      "type": "graphic_pattern",
+      "product": "blockstream_research",
+      "variant": "unspecified_variant",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "research_laser_lines.png",
+      "sha256": "47a72e721d88622674a165dbb2ada21b10c6dc9cf2ee08edf5d3f9a297298808",
+      "size_bytes": 283336
+    },
+    {
+      "file": "blockstream_research_laser_lines.svg",
+      "type": "graphic_pattern",
+      "product": "blockstream_research",
+      "variant": "unspecified_variant",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "research_laser_lines.svg",
+      "sha256": "ee3633f7c7e9c9b40bd6057b2a49ff61ac5c90f70b9db846a13a898ca849bf05",
+      "size_bytes": 30029
+    },
+    {
+      "file": "blockstream_research_logo_white_on_dark_cmyk.png",
+      "type": "brand_logo",
+      "product": "blockstream_research",
+      "variant": "dark_background,white_variant,cmyk",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "research_logo_white_on_dark_cmyk.png",
+      "sha256": "5c79b54232d9b74863e1f0e14c3bebb62727f3458b7a190273ece52533db5f8f",
+      "size_bytes": 90404
+    },
+    {
+      "file": "blockstream_research_logo_white_on_dark_rgb.png",
+      "type": "brand_logo",
+      "product": "blockstream_research",
+      "variant": "dark_background,white_variant,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "research_logo_white_on_dark_rgb.png",
+      "sha256": "655b364aaf691fa866dec2083f4fb898950f1b14b99d0a98f7d99b0c370c37ac",
+      "size_bytes": 84441
+    },
+    {
+      "file": "blockstream_research_logo_white_on_transparent_cmyk.png",
+      "type": "brand_logo",
+      "product": "blockstream_research",
+      "variant": "transparent,white_variant,cmyk",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "research_logo_white_on_transparent_cmyk.png",
+      "sha256": "652b757def12aac38d8f3d1879669ed4e9cceb76ca6e9b99ae2ad5856b51f335",
+      "size_bytes": 92322
+    },
+    {
+      "file": "blockstream_research_logo_white_on_transparent_cmyk.svg",
+      "type": "brand_logo",
+      "product": "blockstream_research",
+      "variant": "transparent,white_variant,cmyk",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "research_logo_white_on_transparent_cmyk.svg",
+      "sha256": "d9fb1524bb956f7d4fc937831f91a0ffad53c1ac414101834985c6ff70a3e7b5",
+      "size_bytes": 8024
+    },
+    {
+      "file": "blockstream_research_logo_white_on_transparent_rgb.png",
+      "type": "brand_logo",
+      "product": "blockstream_research",
+      "variant": "transparent,white_variant,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "research_logo_white_on_transparent_rgb.png",
+      "sha256": "78944ea6d94ddb2b078cb0a6097f99e6a20f00b3fd5cd44da58ab2ddca1981de",
+      "size_bytes": 90459
+    },
+    {
+      "file": "blockstream_research_logo_white_on_transparent_rgb.svg",
+      "type": "brand_logo",
+      "product": "blockstream_research",
+      "variant": "transparent,white_variant,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "research_logo_white_on_transparent_rgb.svg",
+      "sha256": "a9090877b20c09980e7fe0b0f021f42ccc75a66afcbc2ff8d843767b8ad6b880",
+      "size_bytes": 8024
+    },
+    {
+      "file": "blockstream_research_logo_with_pattern.png",
+      "type": "brand_logo",
+      "product": "blockstream_research",
+      "variant": "unspecified_variant",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "research_logo_with_pattern.png",
+      "sha256": "c89be5dafbf20f524c113d2dbfe78c36eea5209909ed235ba6218faef307da0e",
+      "size_bytes": 333018
+    },
+    {
+      "file": "blockstream_research_logo_with_pattern.svg",
+      "type": "brand_logo",
+      "product": "blockstream_research",
+      "variant": "unspecified_variant",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "research_logo_with_pattern.svg",
+      "sha256": "6e4a48cf4e3f259cf7f5b92e87d43e6077c9c8c4bea4943c40e3f09ea75dcbec",
+      "size_bytes": 37184
+    },
+    {
+      "file": "blockstream_satellite_banner.png",
+      "type": "banner",
+      "product": "blockstream_satellite",
+      "variant": "unspecified_variant",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "Blockstream Satellite banner.png",
+      "sha256": "4c6d6ad14a026797a6ee9cfa609611891fe0b66d234fe7dafd7db67e93506e9b",
+      "size_bytes": 232353
+    },
+    {
+      "file": "blockstream_store.png",
+      "type": "other_visual_reference",
+      "product": "blockstream_store",
+      "variant": "unspecified_variant",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "85777388c4818d0f50b55e7d6479af79b79bc1f0a8f369824963b1e40ef9bd70",
+      "size_bytes": 1450593
+    },
+    {
+      "file": "blockstream_store_logo_white_on_dark_cmyk.png",
+      "type": "brand_logo",
+      "product": "blockstream_store",
+      "variant": "dark_background,white_variant,cmyk",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "store_logo_white_on_dark_cmyk.png",
+      "sha256": "fc6c0098c4054fc72120a6ee39e2ef5fe29373fdd2e45d9d1d93b7be84989aa6",
+      "size_bytes": 239285
+    },
+    {
+      "file": "blockstream_store_logo_white_on_dark_rgb.png",
+      "type": "brand_logo",
+      "product": "blockstream_store",
+      "variant": "dark_background,white_variant,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "store_logo_white_on_dark_rgb.png",
+      "sha256": "4d4fbe40579c6734286e613bfd71acbc41b2364568487c07e87cc3c3f8752c74",
+      "size_bytes": 242117
+    },
+    {
+      "file": "blockstream_store_logo_white_on_transparent_cmyk.png",
+      "type": "brand_logo",
+      "product": "blockstream_store",
+      "variant": "transparent,white_variant,cmyk",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "store_logo_white_on_transparent_cmyk.png",
+      "sha256": "055790a6fed76bc7c791a494a20ff6226a964f9bc9850b80831de9a846aedcb0",
+      "size_bytes": 285407
+    },
+    {
+      "file": "blockstream_store_logo_white_on_transparent_cmyk.svg",
+      "type": "brand_logo",
+      "product": "blockstream_store",
+      "variant": "transparent,white_variant,cmyk",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "store_logo_white_on_transparent_cmyk.svg",
+      "sha256": "91fd9650028ef75604d9f8fcfe358cd545aec4a0a151871570d7d3ae089814b0",
+      "size_bytes": 12692
+    },
+    {
+      "file": "blockstream_store_logo_white_on_transparent_rgb.png",
+      "type": "brand_logo",
+      "product": "blockstream_store",
+      "variant": "transparent,white_variant,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "store_logo_white_on_transparent_rgb.png",
+      "sha256": "4104505d835d99a9ba368f9b45f8f00c147c2a5079485b4887d28b113be82506",
+      "size_bytes": 285381
+    },
+    {
+      "file": "blockstream_store_logo_white_on_transparent_rgb.svg",
+      "type": "brand_logo",
+      "product": "blockstream_store",
+      "variant": "transparent,white_variant,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "store_logo_white_on_transparent_rgb.svg",
+      "sha256": "09169d970ec779f2db27138908643d3eac271df639d1dcae0881c74d1c966e7c",
+      "size_bytes": 12692
+    },
+    {
+      "file": "blog_placeholder_amp.png",
+      "type": "blog_background",
+      "product": "unclassified",
+      "variant": "unspecified_variant",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "blog_placeholders_amp.png",
+      "sha256": "f348e777a1c086fcc36b3b33bbefbdac6e6e7e8f83e9b119e8a8e1174d4f9e1f",
+      "size_bytes": 466865
+    },
+    {
+      "file": "blog_placeholder_blockstream.png",
+      "type": "blog_background",
+      "product": "blockstream",
+      "variant": "unspecified_variant",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "blog_placeholders_blockstream.png",
+      "sha256": "d876a617a988138d73bca8adc17e9464ff46581c08d1a35f71aff841b4385ee3",
+      "size_bytes": 53911
+    },
+    {
+      "file": "blog_placeholder_blockstream_black.png",
+      "type": "blog_background",
+      "product": "blockstream",
+      "variant": "unspecified_variant",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "blog_placeholders_blockstream_black.png",
+      "sha256": "a07f3b08c7adf92356ecb78ea3fdbd752ed9bd7c99c558cef4cd1bc93e4d9abd",
+      "size_bytes": 53857
+    },
+    {
+      "file": "blog_placeholder_core_lightning.png",
+      "type": "blog_background",
+      "product": "core_lightning",
+      "variant": "unspecified_variant",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "blog_placeholders_core_lightning.png",
+      "sha256": "55f069d573de3199d1d553837d5f45b9ab8beff5fe3d6ee532dfa809982adc2e",
+      "size_bytes": 156686
+    },
+    {
+      "file": "blog_placeholder_cryptofeed.jpg",
+      "type": "blog_background",
+      "product": "cryptofeed",
+      "variant": "unspecified_variant",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "blog_placeholders_crypto_data_feed.jpg",
+      "sha256": "92bc407bf891c1cf344ea725045bd3f6d290cf85bbecda7482062f61b9a477b6",
+      "size_bytes": 180080
+    },
+    {
+      "file": "blog_placeholder_finance.jpg",
+      "type": "blog_background",
+      "product": "unclassified",
+      "variant": "unspecified_variant",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "blog_placeholders_finance.jpg",
+      "sha256": "be8bc84df2dc471f2c86caa81cbb353d5792051f1c9bfa8831fc8d58790e8265",
+      "size_bytes": 144854
+    },
+    {
+      "file": "blog_placeholder_greenlight.png",
+      "type": "blog_background",
+      "product": "unclassified",
+      "variant": "unspecified_variant",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "blog_placeholders_greenlight.png",
+      "sha256": "c15588b241c5bfcbbfbc46fce13a2b6a45b91576c08863e3cc3bdb4544294833",
+      "size_bytes": 2092449
+    },
+    {
+      "file": "blog_placeholder_liquid_asset_issuer.png",
+      "type": "blog_background",
+      "product": "liquid",
+      "variant": "unspecified_variant",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "blog_placeholders_asset_issuer.png",
+      "sha256": "62b6a83cc4f315560ae2bfb0856b8fe3050ac15232b53f2a0079c3447e3f3b39",
+      "size_bytes": 115944
+    },
+    {
+      "file": "blog_placeholder_research.jpg",
+      "type": "blog_background",
+      "product": "unclassified",
+      "variant": "unspecified_variant",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "blog_placeholders_research.jpg",
+      "sha256": "3f6a3ba545d829757c2fdd1608d5f0654ea70779d6e60f5536fc04874948291a",
+      "size_bytes": 1504562
+    },
+    {
+      "file": "blog_placeholder_simplicity.jpg",
+      "type": "blog_background",
+      "product": "simplicity",
+      "variant": "unspecified_variant",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "blog_placeholders_simplicity.jpg",
+      "sha256": "21e0fee1355097d4e83d9b92afe571022406defecac41b6accb2a3fd5ac87516",
+      "size_bytes": 1395920
+    },
+    {
+      "file": "core_lightning_emblem_on_transparent_rgb.png",
+      "type": "brand_emblem",
+      "product": "core_lightning",
+      "variant": "transparent,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "25b58bdba10416c2e84b3a0fb6dfc8fd7b13619526beed19799df39280049b89",
+      "size_bytes": 11893
+    },
+    {
+      "file": "core_lightning_emblem_on_transparent_rgb.svg",
+      "type": "brand_emblem",
+      "product": "core_lightning",
+      "variant": "transparent,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "55e06fa6ad0536eca21cc84623d474caac9305efd784a3f7fb0319fa769e258a",
+      "size_bytes": 701
+    },
+    {
+      "file": "core_lightning_logo.png",
+      "type": "brand_logo",
+      "product": "core_lightning",
+      "variant": "v16_allowlisted_filename",
+      "v16_products_allowlisting_this_name": [
+        "core_lightning"
+      ],
+      "source_name_in_audited_zip": "core_lightning_logo_white_on_transparent_rgb.png",
+      "sha256": "46333f4449d2d5fde56d451398bd2162295398f5d1d67b456a546f8319cf70e7",
+      "size_bytes": 89614
+    },
+    {
+      "file": "core_lightning_logo_white_on_dark_cmyk.png",
+      "type": "brand_logo",
+      "product": "core_lightning",
+      "variant": "dark_background,white_variant,cmyk",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "c205d831751970d724e3ed503b8609500d58ed6bebfe29c1d6e98b9d226d47b9",
+      "size_bytes": 89217
+    },
+    {
+      "file": "core_lightning_logo_white_on_dark_rgb.png",
+      "type": "brand_logo",
+      "product": "core_lightning",
+      "variant": "dark_background,white_variant,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "bfbffd05d4fbb4e1ec33054bc3a14149d66adde6a5136552ddfe770a71abbfea",
+      "size_bytes": 91442
+    },
+    {
+      "file": "core_lightning_logo_white_on_transparent_cmyk.png",
+      "type": "brand_logo",
+      "product": "core_lightning",
+      "variant": "transparent,white_variant,cmyk",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "7b844b897f1ae7c848f7707b5353a4d234f17a9a111fabf35d2e092245eba2e4",
+      "size_bytes": 88564
+    },
+    {
+      "file": "core_lightning_logo_white_on_transparent_cmyk.svg",
+      "type": "brand_logo",
+      "product": "core_lightning",
+      "variant": "transparent,white_variant,cmyk",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "d2df5825407c68e144f21eeefaa4cfe1ee6f62ab679aa529e202f2de3a28b615",
+      "size_bytes": 5710
+    },
+    {
+      "file": "core_lightning_logo_white_on_transparent_rgb.png",
+      "type": "brand_logo",
+      "product": "core_lightning",
+      "variant": "transparent,white_variant,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "46333f4449d2d5fde56d451398bd2162295398f5d1d67b456a546f8319cf70e7",
+      "size_bytes": 89614
+    },
+    {
+      "file": "core_lightning_logo_white_on_transparent_rgb.svg",
+      "type": "brand_logo",
+      "product": "core_lightning",
+      "variant": "transparent,white_variant,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "eaabfe1026efe12a892ab7a288582aec62dc8190cb71ba8a0dc71903eec8b6ca",
+      "size_bytes": 5710
+    },
+    {
+      "file": "elements_banner.jpg",
+      "type": "banner",
+      "product": "elements",
+      "variant": "unspecified_variant",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "de7acab21f6e1a53f322ff17706ac8c05a455fd38871a2bd9f9e24e249876bc5",
+      "size_bytes": 333116
+    },
+    {
+      "file": "elements_emblem_on_dark_rgb.png",
+      "type": "brand_emblem",
+      "product": "elements",
+      "variant": "dark_background,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "61db1dd1a70b59e514b018bf05df2f93d3495b472393e620d025096f83a4e1fe",
+      "size_bytes": 13923
+    },
+    {
+      "file": "elements_emblem_on_transparent_rgb.png",
+      "type": "brand_emblem",
+      "product": "elements",
+      "variant": "transparent,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "ea2ac6588dcf6c0cd8cb54752835867b5fac24d981da5a837962469a7b829258",
+      "size_bytes": 13597
+    },
+    {
+      "file": "elements_emblem_on_transparent_rgb.svg",
+      "type": "brand_emblem",
+      "product": "elements",
+      "variant": "transparent,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "1ba1decb623988650188c4a3d9a730b19629e62cafebc0acedca08042ac1a735",
+      "size_bytes": 822
+    },
+    {
+      "file": "elements_logo.png",
+      "type": "brand_logo",
+      "product": "elements",
+      "variant": "v16_allowlisted_filename",
+      "v16_products_allowlisting_this_name": [
+        "elements"
+      ],
+      "source_name_in_audited_zip": null,
+      "sha256": "351f83e98f770e6a04139baf702237e92ed9c3fc663ed6d63ea50991395dd2e5",
+      "size_bytes": 35625
+    },
+    {
+      "file": "elements_logo_white_on_dark_cmyk.png",
+      "type": "brand_logo",
+      "product": "elements",
+      "variant": "dark_background,white_variant,cmyk",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "b47acaf0e32c77b3fea95bf2c537f6893cf7d78ea957ccddd44405a11d3e6d34",
+      "size_bytes": 66842
+    },
+    {
+      "file": "elements_logo_white_on_dark_rgb.png",
+      "type": "brand_logo",
+      "product": "elements",
+      "variant": "dark_background,white_variant,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "ecdf2083ecad565da54ccba8de7ba32ffb73b893d7cf1f490d41ee5bffc629f7",
+      "size_bytes": 66750
+    },
+    {
+      "file": "elements_logo_white_on_transparent_cmyk.png",
+      "type": "brand_logo",
+      "product": "elements",
+      "variant": "transparent,white_variant,cmyk",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "4fb1406bbcb33e459f8b02e4bd6a275eec5531939181273954e8f358d8b1393c",
+      "size_bytes": 67377
+    },
+    {
+      "file": "elements_logo_white_on_transparent_cmyk.svg",
+      "type": "brand_logo",
+      "product": "elements",
+      "variant": "transparent,white_variant,cmyk",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "805d9380d09153dfa48e391df0b8fbbc2e781177ee9d6b61095f989ceb339935",
+      "size_bytes": 2517
+    },
+    {
+      "file": "elements_logo_white_on_transparent_rgb.png",
+      "type": "brand_logo",
+      "product": "elements",
+      "variant": "transparent,white_variant,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "493ee029cd517e365d05ece9e1c96f506a52c4a0f792ce740bdf5b9d1ef1dee4",
+      "size_bytes": 69896
+    },
+    {
+      "file": "elements_logo_white_on_transparent_rgb.svg",
+      "type": "brand_logo",
+      "product": "elements",
+      "variant": "transparent,white_variant,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "c80a8c9ddc09c89a19b6179da413d7dc2e4789a47876b0138b3baeacbb8787cd",
+      "size_bytes": 2517
+    },
+    {
+      "file": "jade_banner.jpg",
+      "type": "banner",
+      "product": "jade",
+      "variant": "unspecified_variant",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "0f6b8448869e4e911fdf322502842c13a62660909504bc326a5542f77a7e6d95",
+      "size_bytes": 179852
+    },
+    {
+      "file": "jade_emblem_on_dark_rgb.png",
+      "type": "brand_emblem",
+      "product": "jade",
+      "variant": "dark_background,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "254c635c20b4e100bd57c90b0f0bbbbc685dbb26ff81e43df827562673de6bcd",
+      "size_bytes": 10808
+    },
+    {
+      "file": "jade_emblem_on_transparent_rgb.png",
+      "type": "brand_emblem",
+      "product": "jade",
+      "variant": "transparent,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "e4e3d59e8ccf91eda2087d8d051f57263d08220c59357e9f4bd012a1a3be190a",
+      "size_bytes": 10375
+    },
+    {
+      "file": "jade_emblem_on_transparent_rgb.svg",
+      "type": "brand_emblem",
+      "product": "jade",
+      "variant": "transparent,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "8d839d1ec89cef301058cfd9461ccdcfa051e43e72fdbbff3ce968e53ccc7855",
+      "size_bytes": 830
+    },
+    {
+      "file": "jade_logo.png",
+      "type": "brand_logo",
+      "product": "jade",
+      "variant": "v16_allowlisted_filename",
+      "v16_products_allowlisting_this_name": [
+        "jade"
+      ],
+      "source_name_in_audited_zip": "jade_logo_white_on_transparent_rgb.png",
+      "sha256": "427436357d067cc5056d310231707e8a83c3cea9b6dd9946772cc5404347f9cf",
+      "size_bytes": 84635
+    },
+    {
+      "file": "jade_logo_white_on_dark_cmyk.png",
+      "type": "brand_logo",
+      "product": "jade",
+      "variant": "dark_background,white_variant,cmyk",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "5f375209ad98d5885a1e2963e32ab09dbb8eba4b49aa91961d8b37918069c9d6",
+      "size_bytes": 84169
+    },
+    {
+      "file": "jade_logo_white_on_dark_rgb.png",
+      "type": "brand_logo",
+      "product": "jade",
+      "variant": "dark_background,white_variant,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "e5cd8705c5e07566f71bb132878aec765992ccda76b1b9edb0ce279e593e5006",
+      "size_bytes": 85900
+    },
+    {
+      "file": "jade_logo_white_on_transparent_cmyk.png",
+      "type": "brand_logo",
+      "product": "jade",
+      "variant": "transparent,white_variant,cmyk",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "6c87a9a3352bf6f761d1e923ac960e9c1143bad74c6ebdf05db3c8396e764c56",
+      "size_bytes": 84589
+    },
+    {
+      "file": "jade_logo_white_on_transparent_cmyk.svg",
+      "type": "brand_logo",
+      "product": "jade",
+      "variant": "transparent,white_variant,cmyk",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "f63b5ab70d4774a5d5e9b8e1b139cd6c6afacfd3a814c4441a17cd6a9f9ae600",
+      "size_bytes": 6417
+    },
+    {
+      "file": "jade_logo_white_on_transparent_rgb.png",
+      "type": "brand_logo",
+      "product": "jade",
+      "variant": "transparent,white_variant,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "427436357d067cc5056d310231707e8a83c3cea9b6dd9946772cc5404347f9cf",
+      "size_bytes": 84635
+    },
+    {
+      "file": "jade_logo_white_on_transparent_rgb.svg",
+      "type": "brand_logo",
+      "product": "jade",
+      "variant": "transparent,white_variant,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "d3f7caa3cb49a18dffdf7f4eb4b538e68173b36a11814fea63e917580b46af3f",
+      "size_bytes": 6437
+    },
+    {
+      "file": "Jade_Plus-with-BoxSquare.png",
+      "type": "hardware_photograph",
+      "product": "jade",
+      "variant": "original_product_reference",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "9b1078c6941d884f71275e6d830cc95b1cc6cdd6f07d6afcb17d52d14608836c",
+      "size_bytes": 4438426
+    },
+    {
+      "file": "Jade_Plus_Grey_rotation_reference_1.mp4",
+      "type": "hardware_reference_video",
+      "product": "jade",
+      "variant": "original_product_reference",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "91fbeab9f3b334fcf94dac0ce1fcbfcb8541ca2d11734fda29553b038bd37ea2",
+      "size_bytes": 2262171
+    },
+    {
+      "file": "Jade_Plus_GreyB.jpg",
+      "type": "hardware_photograph",
+      "product": "jade",
+      "variant": "original_product_reference",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "612707604e88810fa782b186e65d0aa2334c2f9de569c046c4c2a16c81f82ffa",
+      "size_bytes": 304499
+    },
+    {
+      "file": "Jade_Plus_GreyBS.jpg",
+      "type": "hardware_photograph",
+      "product": "jade",
+      "variant": "original_product_reference",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "2e91e4210b546c3cbd2cea8de1ac54f8e2529091c9f9afb8ed487a2f64fefcc0",
+      "size_bytes": 191534
+    },
+    {
+      "file": "Jade_Plus_GreyFF.jpg",
+      "type": "hardware_photograph",
+      "product": "jade",
+      "variant": "original_product_reference",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "8323a02116ea608c36a59ea14c94b13882354a9edb37a30228c8ff2f442cd223",
+      "size_bytes": 372248
+    },
+    {
+      "file": "Jade_Plus_GreyFront.jpg",
+      "type": "hardware_photograph",
+      "product": "jade",
+      "variant": "original_product_reference",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "5971b6028cad245642452211b3cf9c21b154e75deb1d8ede43c80d83a42a275f",
+      "size_bytes": 383931
+    },
+    {
+      "file": "Jade_Plus_GreyFS.jpg",
+      "type": "hardware_photograph",
+      "product": "jade",
+      "variant": "original_product_reference",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "d3f027493a4973da018026c81a3cf21c9be852996dfc9142575aaeba3686058f",
+      "size_bytes": 374794
+    },
+    {
+      "file": "liquid_cover.png",
+      "type": "illustration_or_photo",
+      "product": "liquid",
+      "variant": "unspecified_variant",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "liquid_cover.png.png",
+      "sha256": "fe30e0fb36eda2ea8ae577c126fee956123805cc9f4e8d4f1555c2b5c6ce8193",
+      "size_bytes": 180331
+    },
+    {
+      "file": "liquid_emblem_on_transparent_rgb.png",
+      "type": "brand_emblem",
+      "product": "liquid",
+      "variant": "transparent,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "16aae50690009fc6317863c2a2f03b38b2c9597760957568d5d11ce539ba9ae4",
+      "size_bytes": 160610
+    },
+    {
+      "file": "liquid_emblem_on_transparent_rgb.svg",
+      "type": "brand_emblem",
+      "product": "liquid",
+      "variant": "transparent,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "63ab7321698d43097ca284ba96857da57f0bdb4fc91fb56d10013c4b59f99434",
+      "size_bytes": 2227
+    },
+    {
+      "file": "liquid_logo.png",
+      "type": "brand_logo",
+      "product": "liquid",
+      "variant": "v16_allowlisted_filename",
+      "v16_products_allowlisting_this_name": [
+        "liquid"
+      ],
+      "source_name_in_audited_zip": "liquid_logo_white_on_transparent_rgb.png",
+      "sha256": "a6da0addbc27ca4fdd2ae8129b4c622b343a8f6aaa7f940a266ea16c6ea425c7",
+      "size_bytes": 82529
+    },
+    {
+      "file": "liquid_logo.svg",
+      "type": "brand_logo",
+      "product": "liquid",
+      "variant": "v16_allowlisted_filename",
+      "v16_products_allowlisting_this_name": [
+        "liquid"
+      ],
+      "source_name_in_audited_zip": null,
+      "sha256": "8efa4987fedc2bee5e8a7f1f86fbd4dd7c087ad706c300de8eca1e1b22264668",
+      "size_bytes": 4555
+    },
+    {
+      "file": "liquid_logo_white_on_transparent_cmyk.png",
+      "type": "brand_logo",
+      "product": "liquid",
+      "variant": "transparent,white_variant,cmyk",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "91bada154769647b2484e6fd4b2abcc442a27406ed3c787208f45d86c4c89dd2",
+      "size_bytes": 296201
+    },
+    {
+      "file": "liquid_logo_white_on_transparent_cmyk.svg",
+      "type": "brand_logo",
+      "product": "liquid",
+      "variant": "transparent,white_variant,cmyk",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "04d44a084b40dcd3b28f3a3255dbe228eeab8823255c3d961d831cb63d0a9e0e",
+      "size_bytes": 4767
+    },
+    {
+      "file": "liquid_logo_white_on_transparent_rgb.png",
+      "type": "brand_logo",
+      "product": "liquid",
+      "variant": "transparent,white_variant,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "a6da0addbc27ca4fdd2ae8129b4c622b343a8f6aaa7f940a266ea16c6ea425c7",
+      "size_bytes": 82529
+    },
+    {
+      "file": "research_logo_trans.png",
+      "type": "brand_logo",
+      "product": "blockstream_research",
+      "variant": "v16_allowlisted_filename",
+      "v16_products_allowlisting_this_name": [
+        "research"
+      ],
+      "source_name_in_audited_zip": null,
+      "sha256": "2b114f161c833bb1da635ad75c4eb35eaa5cfefe2cbbc05f1990d7d1735ec643",
+      "size_bytes": 40740
+    },
+    {
+      "file": "satellite_logo_trans.svg",
+      "type": "brand_logo",
+      "product": "blockstream_satellite",
+      "variant": "v16_allowlisted_filename",
+      "v16_products_allowlisting_this_name": [
+        "satellite"
+      ],
+      "source_name_in_audited_zip": null,
+      "sha256": "bac6242c37b83f32280d8f8ac7ecedf21576c5e609aeae70543007ac421a0f7d",
+      "size_bytes": 7008
+    },
+    {
+      "file": "simplicity_banner.png",
+      "type": "banner",
+      "product": "simplicity",
+      "variant": "unspecified_variant",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "0c448124d9d519570542bc9a1f4119f92e35afaacc7b27ab147a884bfbe32262",
+      "size_bytes": 119316
+    },
+    {
+      "file": "simplicity_emblem_on_dark_rgb.png",
+      "type": "brand_emblem",
+      "product": "simplicity",
+      "variant": "dark_background,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "042733081fe70f5d4b3e958b8df048629ce85971e66162d97fbd7ed1362e5c3b",
+      "size_bytes": 12279
+    },
+    {
+      "file": "simplicity_emblem_on_transparent_rgb.png",
+      "type": "brand_emblem",
+      "product": "simplicity",
+      "variant": "transparent,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "54e98b9cf9e5002b54cdbc5f05df034b2e1728068a4f88348f49915cdd338643",
+      "size_bytes": 12272
+    },
+    {
+      "file": "simplicity_emblem_on_transparent_rgb.svg",
+      "type": "brand_emblem",
+      "product": "simplicity",
+      "variant": "transparent,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "99556514509574c58fc60faa34d4a3fb76da447a9b671f1c849ff611fd3e301c",
+      "size_bytes": 1372
+    },
+    {
+      "file": "simplicity_logo.png",
+      "type": "brand_logo",
+      "product": "simplicity",
+      "variant": "v16_allowlisted_filename",
+      "v16_products_allowlisting_this_name": [
+        "simplicity"
+      ],
+      "source_name_in_audited_zip": "simplicity_logo_white_on_transparent_rgb.png",
+      "sha256": "2e489418b364524a2075c806e2cfa3f80bdf34622e5800a3e9c1cdaa29ef51a5",
+      "size_bytes": 218536
+    },
+    {
+      "file": "simplicity_logo.svg",
+      "type": "brand_logo",
+      "product": "simplicity",
+      "variant": "v16_allowlisted_filename",
+      "v16_products_allowlisting_this_name": [
+        "simplicity"
+      ],
+      "source_name_in_audited_zip": null,
+      "sha256": "e4261ba9d85b4172cb95829b8c9e38d6d9e6c676dbe38c2f066c457920bb7fd7",
+      "size_bytes": 1296
+    },
+    {
+      "file": "simplicity_logo_white_on_dark_cmyk.png",
+      "type": "brand_logo",
+      "product": "simplicity",
+      "variant": "dark_background,white_variant,cmyk",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "17bb2bad3a8308732d8b75af8688c955fa0b834d4e330bfc052827b7cff106ed",
+      "size_bytes": 169311
+    },
+    {
+      "file": "simplicity_logo_white_on_dark_rgb.png",
+      "type": "brand_logo",
+      "product": "simplicity",
+      "variant": "dark_background,white_variant,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "73e37e90f161f8d60e40af2e91e84eaaac555fb7642f42cba7be3b88f5d7255c",
+      "size_bytes": 172277
+    },
+    {
+      "file": "simplicity_logo_white_on_transparent_cmyk.png",
+      "type": "brand_logo",
+      "product": "simplicity",
+      "variant": "transparent,white_variant,cmyk",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "eb77f2464fdfc3a444842219a5e886376e40fcbf9bf24e079156f1a6073fe54e",
+      "size_bytes": 218298
+    },
+    {
+      "file": "simplicity_logo_white_on_transparent_cmyk.svg",
+      "type": "brand_logo",
+      "product": "simplicity",
+      "variant": "transparent,white_variant,cmyk",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "a724cbf89b19a82e7c780b746adab66ab3c32145a44e7f443911e321e631b256",
+      "size_bytes": 3473
+    },
+    {
+      "file": "simplicity_logo_white_on_transparent_rgb.png",
+      "type": "brand_logo",
+      "product": "simplicity",
+      "variant": "transparent,white_variant,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "2e489418b364524a2075c806e2cfa3f80bdf34622e5800a3e9c1cdaa29ef51a5",
+      "size_bytes": 218536
+    },
+    {
+      "file": "simplicity_logo_white_on_transparent_rgb.svg",
+      "type": "brand_logo",
+      "product": "simplicity",
+      "variant": "transparent,white_variant,rgb",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": null,
+      "sha256": "1554a2473671dc2cf2062f19617d18e8a17a6d229601a9b92c1492f5ed58fce6",
+      "size_bytes": 3473
+    },
+    {
+      "file": "simplicity_shirt_photo.jpg",
+      "type": "illustration_or_photo",
+      "product": "simplicity",
+      "variant": "unspecified_variant",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "simplicity-shirt.jpg",
+      "sha256": "09f124afd64a7c766105c25af24028ed7a656ae6da7e257d1a88d0ead14ad6a3",
+      "size_bytes": 875791
+    },
+    {
+      "file": "simplicity_shirt_transparent.png",
+      "type": "illustration_or_photo",
+      "product": "simplicity",
+      "variant": "transparent",
+      "v16_products_allowlisting_this_name": [],
+      "source_name_in_audited_zip": "simplicity_shirt_trans.png",
+      "sha256": "37adb01f2057433cf39f4b7dee00f4f5fd5155cf6cc8b2befd5275b4b4c41aa4",
+      "size_bytes": 669572
+    }
+  ]
+}
